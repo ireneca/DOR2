@@ -16,26 +16,46 @@
   text-align: center;
 }
 
-.theme-1 {
+.bg-1 {
   background: #4A2AB2;
 }
 
-.theme-2 {
+.bg-2 {
   background: #7dffc3;
 }
 
-.theme-3 {
+.bg-3 {
   background: #23A5E9;
 }
 
-.theme-4 {
+.bg-4 {
   background: #93C763;
 }
 
-.theme-5 {
+.bg-5 {
   background: #949923;
 }
 
-.theme-6 {
+.bg-6 {
+  background: #990055;
+}
+
+.bg-7 {
+  background: #7dffc3;
+}
+
+.bg-8 {
+  background: #23A5E9;
+}
+
+.bg-9 {
+  background: #93C763;
+}
+
+.bg-10 {
+  background: #949923;
+}
+
+.bg-11 {
   background: #990055;
 }
